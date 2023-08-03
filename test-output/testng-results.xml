@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-28T12:44:23 IST" name="P1_Hybrid" finished-at="2023-07-28T12:44:23 IST" duration-ms="0">
+    <groups>
+      <group name="SmokeTesting">
+        <method signature="HomePageTest.waitingTime()[pri:2, instance:TestLayer.HomePageTest@7ce026d3]" name="waitingTime" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.validatePageTitle()[pri:3, instance:TestLayer.HomePageTest@7ce026d3]" name="validatePageTitle" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.vlaidateHomeURL()[pri:4, instance:TestLayer.HomePageTest@7ce026d3]" name="vlaidateHomeURL" class="TestLayer.HomePageTest"/>
+        <method signature="ContactPageTest.validateContactForm(java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:TestLayer.ContactPageTest@7ce69770]" name="validateContactForm" class="TestLayer.ContactPageTest"/>
+        <method signature="HomePageTest.verifyLogoC()[pri:5, instance:TestLayer.HomePageTest@7ce026d3]" name="verifyLogoC" class="TestLayer.HomePageTest"/>
+      </group> <!-- SmokeTesting -->
+      <group name="EndToEndTesting">
+        <method signature="LoginPageTest.logIntoPage()[pri:1, instance:TestLayer.LoginPageTest@57a78e3]" name="logIntoPage" class="TestLayer.LoginPageTest"/>
+        <method signature="HomePageTest.waitingTime()[pri:2, instance:TestLayer.HomePageTest@7ce026d3]" name="waitingTime" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.validatePageTitle()[pri:3, instance:TestLayer.HomePageTest@7ce026d3]" name="validatePageTitle" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.vlaidateHomeURL()[pri:4, instance:TestLayer.HomePageTest@7ce026d3]" name="vlaidateHomeURL" class="TestLayer.HomePageTest"/>
+        <method signature="ContactPageTest.validateContactForm(java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:TestLayer.ContactPageTest@7ce69770]" name="validateContactForm" class="TestLayer.ContactPageTest"/>
+        <method signature="HomePageTest.verifyLogoC()[pri:5, instance:TestLayer.HomePageTest@7ce026d3]" name="verifyLogoC" class="TestLayer.HomePageTest"/>
+      </group> <!-- EndToEndTesting -->
+      <group name="HomePage">
+        <method signature="HomePageTest.waitingTime()[pri:2, instance:TestLayer.HomePageTest@7ce026d3]" name="waitingTime" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.validatePageTitle()[pri:3, instance:TestLayer.HomePageTest@7ce026d3]" name="validatePageTitle" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.vlaidateHomeURL()[pri:4, instance:TestLayer.HomePageTest@7ce026d3]" name="vlaidateHomeURL" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.verifyLogoC()[pri:5, instance:TestLayer.HomePageTest@7ce026d3]" name="verifyLogoC" class="TestLayer.HomePageTest"/>
+      </group> <!-- HomePage -->
+      <group name="RegressionTesting">
+        <method signature="HomePageTest.waitingTime()[pri:2, instance:TestLayer.HomePageTest@7ce026d3]" name="waitingTime" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.validatePageTitle()[pri:3, instance:TestLayer.HomePageTest@7ce026d3]" name="validatePageTitle" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.vlaidateHomeURL()[pri:4, instance:TestLayer.HomePageTest@7ce026d3]" name="vlaidateHomeURL" class="TestLayer.HomePageTest"/>
+        <method signature="ContactPageTest.validateContactForm(java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:TestLayer.ContactPageTest@7ce69770]" name="validateContactForm" class="TestLayer.ContactPageTest"/>
+        <method signature="HomePageTest.verifyLogoC()[pri:5, instance:TestLayer.HomePageTest@7ce026d3]" name="verifyLogoC" class="TestLayer.HomePageTest"/>
+      </group> <!-- RegressionTesting -->
+      <group name="SanityTesting">
+        <method signature="HomePageTest.waitingTime()[pri:2, instance:TestLayer.HomePageTest@7ce026d3]" name="waitingTime" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.validatePageTitle()[pri:3, instance:TestLayer.HomePageTest@7ce026d3]" name="validatePageTitle" class="TestLayer.HomePageTest"/>
+        <method signature="HomePageTest.vlaidateHomeURL()[pri:4, instance:TestLayer.HomePageTest@7ce026d3]" name="vlaidateHomeURL" class="TestLayer.HomePageTest"/>
+        <method signature="ContactPageTest.validateContactForm(java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:TestLayer.ContactPageTest@7ce69770]" name="validateContactForm" class="TestLayer.ContactPageTest"/>
+        <method signature="HomePageTest.verifyLogoC()[pri:5, instance:TestLayer.HomePageTest@7ce026d3]" name="verifyLogoC" class="TestLayer.HomePageTest"/>
+      </group> <!-- SanityTesting -->
+      <group name="LoginPage">
+        <method signature="LoginPageTest.logIntoPage()[pri:1, instance:TestLayer.LoginPageTest@57a78e3]" name="logIntoPage" class="TestLayer.LoginPageTest"/>
+      </group> <!-- LoginPage -->
+    </groups>
+  </suite> <!-- P1_Hybrid -->
+</testng-results>
